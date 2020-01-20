@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/adidas_app/static/css/main.5d92233a.chunk.css",
+    "main.css": "/adidas_app/static/css/main.c18e6218.chunk.css",
     "main.js": "/adidas_app/static/js/main.0d893e77.chunk.js",
     "main.js.map": "/adidas_app/static/js/main.0d893e77.chunk.js.map",
     "runtime-main.js": "/adidas_app/static/js/runtime-main.7d7c06da.js",
@@ -8,15 +8,15 @@
     "static/js/2.f1c821c1.chunk.js": "/adidas_app/static/js/2.f1c821c1.chunk.js",
     "static/js/2.f1c821c1.chunk.js.map": "/adidas_app/static/js/2.f1c821c1.chunk.js.map",
     "index.html": "/adidas_app/index.html",
-    "precache-manifest.61f2ccede63e7e421cd7a228389e9b66.js": "/adidas_app/precache-manifest.61f2ccede63e7e421cd7a228389e9b66.js",
+    "precache-manifest.4863a8abe21c2383623abaeb0ffffe49.js": "/adidas_app/precache-manifest.4863a8abe21c2383623abaeb0ffffe49.js",
     "service-worker.js": "/adidas_app/service-worker.js",
-    "static/css/main.5d92233a.chunk.css.map": "/adidas_app/static/css/main.5d92233a.chunk.css.map",
+    "static/css/main.c18e6218.chunk.css.map": "/adidas_app/static/css/main.c18e6218.chunk.css.map",
     "static/js/2.f1c821c1.chunk.js.LICENSE": "/adidas_app/static/js/2.f1c821c1.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.7d7c06da.js",
     "static/js/2.f1c821c1.chunk.js",
-    "static/css/main.5d92233a.chunk.css",
+    "static/css/main.c18e6218.chunk.css",
     "static/js/main.0d893e77.chunk.js"
   ]
 }

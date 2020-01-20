@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2c0e8765261cee41ef70f1721961deb0",
+    "revision": "f54974cb06db5bffa035b84014e1d519",
     "url": "/adidas_app/index.html"
   },
   {
-    "revision": "766c5e31cc5ec5f83b36",
-    "url": "/adidas_app/static/css/main.5d92233a.chunk.css"
+    "revision": "a40c2a029a899fd564f2",
+    "url": "/adidas_app/static/css/main.c18e6218.chunk.css"
   },
   {
     "revision": "cb6197af67a1a6fab361",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/adidas_app/static/js/2.f1c821c1.chunk.js.LICENSE"
   },
   {
-    "revision": "766c5e31cc5ec5f83b36",
+    "revision": "a40c2a029a899fd564f2",
     "url": "/adidas_app/static/js/main.0d893e77.chunk.js"
   },
   {
